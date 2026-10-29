@@ -23,7 +23,7 @@ ReactとTypeScriptを使用して開発した、ノートパソコンのECサイ
   
 ---
 
-- # Laptop E-Commerce Website
+# Laptop E-Commerce Website
 
 A laptop e-commerce web application built with React and TypeScript, integrated with a separate backend API.
 
